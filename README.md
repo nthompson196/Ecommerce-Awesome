@@ -57,3 +57,13 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * ReferralCandy - https://www.referralcandy.com/
 * Channable - https://www.channable.com/
 
+## Design
+
+* Canva - https://www.canva.com/
+* Pexels - https://www.pexels.com/
+* Sketch App Resources - http://www.sketchappsources.com/
+* Sketch - https://www.sketchapp.com/
+* Code My UI - https://codemyui.com/
+* Beautiful Stores - https://beautifulstores.com/
+
+
