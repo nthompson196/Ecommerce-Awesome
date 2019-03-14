@@ -195,3 +195,18 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Feedly - https://feedly.com/
 * Scoop.it - https://www.scoop.it/
 * Contentmarketer - https://contentmarketer.io/
+
+##### Product Visibility
+
+* Fits.me - https://www.fits.me/
+* Idomoo - https://idomoo.com/
+* Webyclip - https://www.webyclip.com/
+* Sirv - https://www.sirv.com/
+* 3dbin - https://www.3dbin.com/
+* Google Products - https://developers.google.com/search/docs/data-types/products
+
+##### Checkout Optimization
+
+* BuzzSumo - https://buzzsumo.com/
+* Square Up - https://www.squareup.com/
+* SumoMe - https://sumome.com/
