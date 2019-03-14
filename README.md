@@ -2,7 +2,7 @@
 
 List of popular marketing tools and add-ons which are used by e-commerce stores.
 
-## Social Media
+##### Social Media
 
 * Hootsweet - https://hootsuite.com/
 * Tweetdeck - https://tweetdeck.com/
