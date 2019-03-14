@@ -47,10 +47,10 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 
 ## Advertising
 
-* [Google AdWords](https://adwords.google.com/)
-* [Facebook Ads](https://www.facebook.com/business/)
-* [Adroll](https://www.adroll.com/)
-* [Instagram Ads](https://business.instagram.com/advertising)
+* Google AdWords - https://adwords.google.com/
+* Facebook Ads - https://www.facebook.com/business/
+* Adroll - https://www.adroll.com/
+* Instagram Ads - https://business.instagram.com/advertising
 
 ## Referrals
 
