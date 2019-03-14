@@ -66,4 +66,13 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Code My UI - https://codemyui.com/
 * Beautiful Stores - https://beautifulstores.com/
 
+## SEO
+
+* Google Trends - https://www.google.com/trends/
+* Open Site Explorer - https://moz.com/researchtools/ose/
+* SEMRush - https://www.semrush.com/
+* SEO Site Cleanup - https://seositecheckup.com/
+* Seomator - https://seomator.com/
+* Google Keyword Planner - https://adwords.google.com/KeywordPlanner
+* Lighthouse - https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
 
