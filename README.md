@@ -169,3 +169,29 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Link Big - http://www.link-big.com/
 * Buffer - https://buffer.com/
 
+##### Website Optimization & SSL
+
+* PageSpeed Insights - https://developers.google.com/speed/pagespeed/insights/
+* Comodo - https://www.comodo.com/
+* Cloudflare - https://cloudflare.com/
+* Google Mobile Friendly Test - https://www.google.com/webmasters/tools/mobile-friendly/
+
+##### User Reviews
+
+* PowerReviews - https://www.powerreviews.com/
+* Yotpo - https://www.yotpo.com/
+* Google My Business - https://www.google.com/business/
+* eRated - https://www.erated.co/
+* TurnTo(https://www.turntonetworks.com/
+
+##### Pinterest
+
+* Tailwind - https://www.tailwindapp.com/
+* Olapic - https://www.olapic.com/
+* Curalate - http://www.curalate.com/
+
+##### Content Marketing
+
+* Feedly - https://feedly.com/
+* Scoop.it - https://www.scoop.it/
+* Contentmarketer - https://contentmarketer.io/
