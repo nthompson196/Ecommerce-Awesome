@@ -120,3 +120,52 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Crowdfire - https://crowdfireapp.com/
 * Buffer - https://buffer.com/
 
+## Analytics
+
+* Google Analytics - https://www.google.com/analytics/
+* Adobe Marketing Cloud - https://www.adobe.com/ca/marketing-cloud.html
+* Kissmetrics - https://www.kissmetrics.com/
+* Optimizely - https://www.optimizely.com/
+* Moz - https://moz.com/products
+* AHrefs - https://ahrefs.com/
+* Segment - https://segment.com/
+* Heap Analytics - https://heapanalytics.com/
+* Full Story - https://www.fullstory.com/
+* Google URL Builder - https://ga-dev-tools.appspot.com/campaign-url-builder/ref=ncikparsons.io
+
+## Fulfillment
+
+* ShipStation - https://app.shipstation.com/
+* Shipping Easy - https://shippingeasy.com/
+* Shippo - https://goshippo.com/
+* ShipWorks - https://www.shipworks.com/
+* Shipwire - https://www.shipwire.com/
+* ShipLark - https://www.shiplark.com/
+
+## Freelance
+
+* Bonsai - https://hellobonsai.com/
+* Upwork - https://www.upwork.com/
+* Nick Parsons - https://nickparsons.io/
+
+## Mobile Experience
+
+* Shopgate - https://www.shopgate.com/
+* Zuznow - https://www.zuznow.com/
+* MobiCart - https://www.mobi-cart.com/
+* Localz - https://localz.com/
+
+## Blogs
+
+* Unbounce - https://unbounce.com/blog/
+* Backlinko - https://backlinko.com/
+* Convince and Convert - https://www.convinceandconvert.com/
+* ConversionXL - https://conversionxl.com/blog/
+
+## Instagram
+
+* Liketoknow.it - https://liketoknow.it/
+* IconoSquare - https://pro.iconosquare.com/
+* Link Big - http://www.link-big.com/
+* Buffer - https://buffer.com/
+
