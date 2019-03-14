@@ -76,3 +76,17 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Google Keyword Planner - https://adwords.google.com/KeywordPlanner
 * Lighthouse - https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
 
+## E-commerce Platforms
+
+* Shopify - https://www.shopify.com/
+* BigCommerce - https://www.bigcommerce.com/
+* Big Cartel - https://bigcartel.com/
+* Squarespace - https://www.squarespace.com/
+* Magento - https://www.magento.com/
+* WooCommerce - https://www.woothemes.com/woocommerce/
+* Gumroad - https://gumroad.com/
+* Storenvy - https://www.storenvy.com/
+* SendOwl - https://www.sendowl.com/
+* Cratejoy - https://www.cratejoy.com/
+* Celery - https://www.trycelery.com/
+* 3dcart - https://www.3dcart.com/
