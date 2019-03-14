@@ -15,7 +15,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Mention - https://mention.com/
 * Cyfe - http://www.cyfe.com/
 
-## Email Marketing
+##### Email Marketing
 
 * SendGrid - https://sendgrid.com/
 * MailChimp - https://mailchimp.com/
@@ -26,7 +26,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Hiver - https://hiverhq.com/
 * Good Email Copy - https://www.goodemailcopy.com/
 
-## Customer Support
+##### Customer Support
 
 * Zendesk - https://zendesk.com/
 * Desk - https://desk.com/
@@ -34,7 +34,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Intercom - https://intercom.io/
 * HappyFox - https://www.happyfox.com/
 
-## Live Chat
+##### Live Chat
 
 * Zopim Live Chat - https://www.zopim.com/
 * LiveChat - https://www.livechatinc.com/
@@ -45,19 +45,19 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Tagove Live Chat - https://www.tagove.com/
 * SnapEngage - https://snapengage.com/
 
-## Advertising
+##### Advertising
 
 * Google AdWords - https://adwords.google.com/
 * Facebook Ads - https://www.facebook.com/business/
 * Adroll - https://www.adroll.com/
 * Instagram Ads - https://business.instagram.com/advertising
 
-## Referrals
+##### Referrals
 
 * ReferralCandy - https://www.referralcandy.com/
 * Channable - https://www.channable.com/
 
-## Design
+##### Design
 
 * Canva - https://www.canva.com/
 * Pexels - https://www.pexels.com/
@@ -66,7 +66,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Code My UI - https://codemyui.com/
 * Beautiful Stores - https://beautifulstores.com/
 
-## SEO
+##### SEO
 
 * Google Trends - https://www.google.com/trends/
 * Open Site Explorer - https://moz.com/researchtools/ose/
@@ -76,7 +76,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Google Keyword Planner - https://adwords.google.com/KeywordPlanner
 * Lighthouse - https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
 
-## E-commerce Platforms
+##### E-commerce Platforms
 
 * Shopify - https://www.shopify.com/
 * BigCommerce - https://www.bigcommerce.com/
@@ -91,7 +91,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Celery - https://www.trycelery.com/
 * 3dcart - https://www.3dcart.com/
 
-## Competitive & User Research
+##### Competitive & User Research
 
 * Survey Monkey - https://www.surveymonkey.com/
 * Alexa Traffic Rank Toolbar - https://www.alexa.com/toolbar
@@ -104,7 +104,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Keyhole.co - https://keyhole.co/
 * User Report - https://www.userreport.com/
 
-## Twitter
+##### Twitter
 
 * Ritetag - https://ritetag.com/
 * Tagboard - https://tagboard.com/
@@ -112,7 +112,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Crowdfire - https://crowdfireapp.com/
 * Buffer - https://buffer.com/
 
-## Facebook
+##### Facebook
 
 * Qwaya - http://www.qwaya.com/
 * Shoutlet - http://www.spredfast.com/
