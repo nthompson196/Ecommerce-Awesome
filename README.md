@@ -90,3 +90,33 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Cratejoy - https://www.cratejoy.com/
 * Celery - https://www.trycelery.com/
 * 3dcart - https://www.3dcart.com/
+
+## Competitive & User Research
+
+* Survey Monkey - https://www.surveymonkey.com/
+* Alexa Traffic Rank Toolbar - https://www.alexa.com/toolbar
+* MozBar - https://moz.com/tools/seo-toolbar
+* SimilarWeb - https://www.similarweb.com/
+* StaySavy - https://staysavy.com/
+* Google Alerts - https://www.google.com/alerts
+* TalkWalker - https://www.talkwalker.com/
+* Newsblur - https://www.newsblur.com/
+* Keyhole.co - https://keyhole.co/
+* User Report - https://www.userreport.com/
+
+## Twitter
+
+* Ritetag - https://ritetag.com/
+* Tagboard - https://tagboard.com/
+* Trendsmap - https://www.trendsmap.com/
+* Crowdfire - https://crowdfireapp.com/
+* Buffer - https://buffer.com/
+
+## Facebook
+
+* Qwaya - http://www.qwaya.com/
+* Shoutlet - http://www.spredfast.com/
+* SocialApps HQ - http://www.socialappshq.com/
+* Crowdfire - https://crowdfireapp.com/
+* Buffer - https://buffer.com/
+
